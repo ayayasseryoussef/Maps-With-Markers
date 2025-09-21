@@ -11,8 +11,7 @@ A real-time location tracking app using **OpenStreetMap**, **Supabase**, and **G
 - GetX state management for reactive updates
 - Supabase backend for storing and streaming user locations
 - Polyline drawn between users
-- Cross-platform: Android, iOS, Web, Desktop
-- Web optimization using `CancellableTileProvider`
+- Cross-platform: Android, iOS, Web.
 
 ---
 
@@ -22,8 +21,7 @@ A real-time location tracking app using **OpenStreetMap**, **Supabase**, and **G
 - `latlong2`
 - `get`
 - `supabase_flutter`
-- `flutter_map_cancellable_tile_provider: ^3.0.2` (for Web performance)
-- `flutter/foundation` (for `kIsWeb` detection)
+- `flutter_map_cancellable_tile_provider: ^3.0.2` 
 
 ---
 
